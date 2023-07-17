@@ -1,8 +1,8 @@
-![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/Template-repository)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/2do_1C-Organizacion_del_Computador-FAMAF)
 
-# Materia - FAMAF - Computacion
+# Organizacion del Computador - FAMAF - Computacion
 
-> Cuatrimestre
+> 2do
 
 Necesita tener aprobada:
 
@@ -10,7 +10,7 @@ Necesita tener aprobada:
 
 Es correlativa de:
 
-- 1
+- Algoritmos y Estructura de Datos I
 
 ## Clonar el repositorio
 
@@ -23,6 +23,6 @@ git clone <repo-url>
 Cualquier persona puede realiza su aporte con apunte, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR) comunicarse con los administradores.
 
 # Contributors
-<a href="https://github.com/FAMAF-resources/Template-repository/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FAMAF-resources/Template-repository"/>
+<a href="https://github.com/FAMAF-resources/2do_1C-Organizacion_del_Computador-FAMAF/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FAMAF-resources/2do_1C-Organizacion_del_Computador-FAMAF"/>
 </a>
