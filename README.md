@@ -4,18 +4,42 @@
 
 > 2do
 
-Necesita tener aprobada:
+## Correlativas para **cursar**
 
-- 1
+| Materia               | Condición    |
+| --------------------- | ------------ |
+| Introduccion a los Algoritmos | Aprobada |
+| Algoritmos y Estructuras de Datos I   | Regularizada     |
 
-Es correlativa de:
+## Correlativas para **aprobar**
 
-- Algoritmos y Estructura de Datos I
+| Materia               | Condición    |
+| --------------------- | ------------ |
+| Introduccion a los Algoritmos | Aprobada     |
+| Algoritmos y Estructuras de Datos I   | Aprobada     |
+
+## Es correlativa de:
+
+- Sistemas Operativos
 
 ## Clonar el repositorio
 
+> https
+
 ```bash
-git clone <repo-url>
+git clone --recurse-submodules https://github.com/FAMAF-resources/2do_1C-Organizacion_del_Computador-FAMAF.git
+```
+
+> **ssh (recomendado)**
+
+```bash
+git clone --recurse-submodules git@github.com:FAMAF-resources/2do_1C-Organizacion_del_Computador-FAMAF.git
+```
+
+## Update
+
+```bash
+git pull && git submodule update --init --recursive
 ```
 
 # Contribuciones
@@ -24,5 +48,5 @@ Cualquier persona puede realiza su aporte con apunte, libro, o actualizacion de 
 
 # Contributors
 <a href="https://github.com/FAMAF-resources/2do_1C-Organizacion_del_Computador-FAMAF/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FAMAF-resources/2do_1C-Organizacion_del_Computador-FAMAF"/>
+  <img src="https://contrib.rocks/image?repo=FAMAF-resources/2do_1C-Organizacion_del_Computador-FAMAF" height="50"/>
 </a>
