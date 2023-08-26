@@ -24,13 +24,13 @@
 
 ## Clonar el repositorio
 
-> https
+**https**
 
 ```bash
 git clone --recurse-submodules https://github.com/FAMAF-resources/2do_1C-Organizacion_del_Computador-FAMAF.git
 ```
 
-> **ssh (recomendado)**
+**ssh (recomendado)**
 
 ```bash
 git clone --recurse-submodules git@github.com:FAMAF-resources/2do_1C-Organizacion_del_Computador-FAMAF.git
@@ -42,9 +42,17 @@ git clone --recurse-submodules git@github.com:FAMAF-resources/2do_1C-Organizacio
 git pull && git submodule update --init --recursive
 ```
 
-# Contribuciones
+# ¿Cómo contribuir?
 
-Cualquier persona puede realiza su aporte con apunte, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR) comunicarse con los administradores.
+Este es un proyecto con fines de facilitar el acceso al material para estudio.
+
+Cualquier persona puede realizar su aporte, sea apunte, libro, o actualizacion de este repositoro.
+
+Puede ser realizado por una pull request (PR) o comunicándose con los administradores.
+
+# Nuestra comunidad
+
+[Sobre nosotros](https://github.com/FAMAF-resources/.github/tree/main/profile/README.md)
 
 # Contributors
 <a href="https://github.com/FAMAF-resources/2do_1C-Organizacion_del_Computador-FAMAF/graphs/contributors">
